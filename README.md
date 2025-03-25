@@ -1,16 +1,10 @@
-# tugas_1
+# Tugas 1 - Contacts List App
 
-A new Flutter project.
+**Davin Fisabilillah Reynard Putra**
 
-## Getting Started
+5025221137
 
-This project is a starting point for a Flutter application.
+PPB C
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Video Demo:
+https://youtu.be/LVm8Pck7A4E
